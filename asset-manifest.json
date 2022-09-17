@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/iplayer-films/static/css/main.a0a3501e.css",
-    "main.js": "/iplayer-films/static/js/main.bb95d45b.js",
+    "main.js": "/iplayer-films/static/js/main.4c57da07.js",
     "static/js/787.5472075d.chunk.js": "/iplayer-films/static/js/787.5472075d.chunk.js",
     "static/media/BBCReithSans_W_Rg.woff2": "/iplayer-films/static/media/BBCReithSans_W_Rg.af7256c5cb34ca6a9223.woff2",
     "index.html": "/iplayer-films/index.html",
     "main.a0a3501e.css.map": "/iplayer-films/static/css/main.a0a3501e.css.map",
-    "main.bb95d45b.js.map": "/iplayer-films/static/js/main.bb95d45b.js.map",
+    "main.4c57da07.js.map": "/iplayer-films/static/js/main.4c57da07.js.map",
     "787.5472075d.chunk.js.map": "/iplayer-films/static/js/787.5472075d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a0a3501e.css",
-    "static/js/main.bb95d45b.js"
+    "static/js/main.4c57da07.js"
   ]
 }
